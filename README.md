@@ -6,4 +6,7 @@ A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + N
 Learn to Automate and Scrape the web with Headless Chrome
 
 # install dependencies
+
+nvm i v8
+
 npm install --save puppeteer
