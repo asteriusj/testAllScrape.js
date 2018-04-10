@@ -1,3 +1,6 @@
+//
+// from https://gist.github.com/bmorelli25/6f78f8d9c6bd2c1de733078091bfb4cf
+//
 const puppeteer = require('puppeteer');
 
 let scrape = async () => {
